@@ -1,6 +1,7 @@
 *{
     margin: 0;
     box-sizing: border-box;
+    
 }
 
 
@@ -38,6 +39,8 @@ section p{
 
 section ul{
     margin-top: 20px;
+    
+    
 }
 
 table{
@@ -45,6 +48,7 @@ margin-top: 20px;
 table-layout: fixed;
 width: 80%;
 text-align: left;
+border-collapse: collapse;
 }
 
 th{
